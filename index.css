@@ -117,4 +117,13 @@ nav ul li:hover:after {
     color: #757575;
     margin-top: 25px;
     margin-bottom: 30px;
+    clear: right;
+}
+
+img {
+    height: 450px;
+    float: right;
+    border-radius: 120px;
+    margin-right: 60px;
+    
 }
